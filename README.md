@@ -1,6 +1,13 @@
 # Sugar Labs contributions
 
 I have created this Repo to keep the tracks of my contribution in Sugar Labs - Sugar
+|   Activity Name         |           Comments                         |      Link to work                  |      Status        |
+|-------------------------|--------------------------------------------|------------------------------------|--------------------|
+|make-them-fall-activity|<ul><li>Refactored code </li> <li> added new Button class </li> <li> reduced re-renders </li> </ul>|[Link to work](https://github.com/sugarlabs/make-them-fall-activity/pull/25)|In Progress|
+|block-party-activity|<ul><li>Feature: Show Ghost Piece </li> <li> Added Bonus score for line break </li> </ul> | [Link to work](https://github.com/sugarlabs/block-party-activity/pull/33) <br/> [Link to work](https://github.com/sugarlabs/block-party-activity/pull/34) | Under Review |
+
+
+Before GSoC
 
 |   Activity Name         |           Comments                         |      Link to work                  |      Status        |
 |-------------------------|--------------------------------------------|------------------------------------|--------------------|
@@ -17,4 +24,3 @@ I have created this Repo to keep the tracks of my contribution in Sugar Labs - S
 |Cookie-search-activity|<ul><li>Fixed Flake8 warnings</li><ul>|[Link to work](https://github.com/sugarlabs/cookie-search-activity/pull/22) <br/> [Link to work](https://github.com/sugarlabs/cookie-search-activity/pull/24) | Merged |
 
 
-     
