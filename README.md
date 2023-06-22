@@ -5,7 +5,7 @@ I have created this Repo to keep the tracks of my contribution in Sugar Labs - S
 |-------------------------|--------------------------------------------|------------------------------------|--------------------|
 |make-them-fall-activity|<ul><li>Refactored code </li> <li> added new Button class </li> <li> reduced re-renders </li> </ul>|[Link to work](https://github.com/sugarlabs/make-them-fall-activity/pull/25)|In Progress|
 |block-party-activity|<ul><li>Feature: Show Ghost Piece </li> <li> Added Bonus score for line break </li> </ul> | [Link to work](https://github.com/sugarlabs/block-party-activity/pull/33) <br/> [Link to work](https://github.com/sugarlabs/block-party-activity/pull/34) | Under Review |
-
+|classify-cats|<ul><li>Bug Fix in Score </li></ul>| [Link to Work](https://github.com/sugarlabs/classify-cats/pull/7) | Progress |
 
 Before GSoC
 
