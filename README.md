@@ -11,7 +11,7 @@ Before GSoC
 
 |   Activity Name         |           Comments                         |      Link to work                  |      Status        |
 |-------------------------|--------------------------------------------|------------------------------------|--------------------|
-|make-them-fall-activity|<ul><li>Refactored code </li> <li> added new Button class </li> <li> reduced re-renders </li> </ul>|[Link to work](https://github.com/sugarlabs/make-them-fall-activity/pull/25)|In Progress|
+|make-them-fall-activity|<ul><li>Refactored code </li> <li> added new Button class </li> <li> reduced re-renders </li> </ul>|[Link to work](https://github.com/sugarlabs/make-them-fall-activity/pull/25)|Merged|
 |classify-cats|<ul><li>Fixed highscore loading</li><li>Added showing current score after every game </li> <li> A bonus score for the reaction time</li><li>fixed the win check for placing cats</li></ul>|[Link to work](https://github.com/sugarlabs/classify-cats/pull/6)|Merged|
 |block-party-activity|<ul><li>Feature: Show highscore</li></ul>|[Link to work](https://github.com/sugarlabs/block-party-activity/pull/28) <br/> [Link to work](https://github.com/sugarlabs/block-party-activity/pull/31) |Merged|
 |tictactoe|<ul><li>Feature: Added text to show current turn</li></ul>|[Link to work](https://github.com/sugarlabs/tictactoe/pull/4)|Merged|
