@@ -4,7 +4,7 @@ I have created this Repo to keep the tracks of my contribution in Sugar Labs - S
 |   Activity Name         |           Comments                         |      Link to work                  |      Status        |
 |-------------------------|--------------------------------------------|------------------------------------|--------------------|
 |make-them-fall-activity|<ul><li>Created Generic Game class </li> <li>Improved Hardcoding of the objects alot</li> <li> Added feature - Difficulty option </li> </ul>|[Link to work](https://github.com/sugarlabs/make-them-fall-activity/pull/25) </br> [Link to work](https://github.com/sugarlabs/make-them-fall-activity/pull/30) | Merged <br/> Under Review|
-|block-party-activity|<ul><li>Feature: Show Ghost Piece </li> <li> Added Bonus score for line break </li> </ul> | [Link to work](https://github.com/sugarlabs/block-party-activity/pull/33) <br/> [Link to work](https://github.com/sugarlabs/block-party-activity/pull/34) | Merged <br/> Under Review |
+|block-party-activity|<ul> <li> Add feature: Show Ghost piece</li> <li> Utilized Gdk.rgba to get ghost piece color</li> <li>Add bonus score for line break </li></ul> | [Link to work](https://github.com/sugarlabs/block-party-activity/pull/33) <br/> [Link to work](https://github.com/sugarlabs/block-party-activity/pull/34) | Merged <br/> Under Review |
 |classify-cats|<ul><li>Bug Fix in Score </li></ul>| [Link to Work](https://github.com/sugarlabs/classify-cats/pull/7) | Merged |
 |ball-and-brick-activity|<ul><li>Refactored code</li> <li>Added new class for ball, brick and bat </li></ul> | [Link to work](https://github.com/sugarlabs/ball-and-brick-activity/pull/20) | Under Review |
 
