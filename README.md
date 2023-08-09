@@ -7,7 +7,7 @@ I have created this Repo to keep the tracks of my contribution in Sugar Labs - S
 |block-party-activity|<ul> <li> Add feature: Show Ghost piece</li> <li> Utilized Gdk.rgba to get ghost piece color</li> <li>Add bonus score for line break </li></ul> | [Link to work](https://github.com/sugarlabs/block-party-activity/pull/33) <br/> [Link to work](https://github.com/sugarlabs/block-party-activity/pull/34) | Merged <br/> Merged |
 |classify-cats|<ul><li>Added new game-mode - Choose which cat has a odd count</li><li>Bug Fix in Score </li></ul>| [Link to Work](https://github.com/sugarlabs/classify-cats/pull/9) <br/> [Link to Work](https://github.com/sugarlabs/classify-cats/pull/7) | Under Review <br/> Merged |
 |ball-and-brick-activity|<ul><li>Refactored code</li> <li>Added new class for ball, brick and bat </li></ul> | [Link to work](https://github.com/sugarlabs/ball-and-brick-activity/pull/20) | Under Review |
-|hittheballs-activity|<ul><li>Added gameloop to the game</li></ul>| [Link to Work](https://github.com/sugarlabs/hittheballs-activity/pull/12) | Under Review
+|hittheballs-activity|<ul><li>Added gameloop to the game</li></ul>| [Link to Work](https://github.com/sugarlabs/hittheballs-activity/pull/12) | Merged|
 
 Before GSoC
 
