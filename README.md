@@ -1,6 +1,20 @@
 # Sugar Labs contributions
 
 I have created this Repo to keep the tracks of my contribution in Sugar Labs - Sugar
+
+# Improve and Maintain 12 Sugar Activities
+*Name - Riya Jain*
+
+*Email - riya1jain567@gmail.com*
+
+*GitHub username - [jriyyya](https://github.com/jriyyya)*
+
+*Mentors -  [chimosky](https://github.com/chimosky), [sourabhaa](https://github.com/sourabhaa/)*
+
+## My work in project
+
+## Pull Request Track
+
 |   Activity Name         |           Comments                         |      Link to work                  |      Status        |
 |-------------------------|--------------------------------------------|------------------------------------|--------------------|
 |make-them-fall-activity|<ul><li>Created Generic Game class </li> <li>Improved Hardcoding of the objects alot</li> <li> Added feature - Difficulty option </li> </ul>|[Link to work](https://github.com/sugarlabs/make-them-fall-activity/pull/25) </br> [Link to work](https://github.com/sugarlabs/make-them-fall-activity/pull/30) | Merged <br/> Under Review|
