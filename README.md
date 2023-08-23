@@ -24,6 +24,14 @@ I have created this Repo to keep the tracks of my contribution in Sugar Labs - S
 |hittheballs-activity|<ul><li>Added gameloop to the game</li><li>Added HighScore Feature</li></ul>| [Link to Work](https://github.com/sugarlabs/hittheballs-activity/pull/12) <br/> [Link to work](https://github.com/sugarlabs/hittheballs-activity/pull/13)| Merged <br/> Merged|
 |Math-hurdler| <ul><li>Enhanced the UI of the gameplay</li><li>Added Support for keyboard for options</li></ul> | [Link to Work](https://github.com/sugarlabs/math-hurdler/pull/14) | Draft PR |
 
+## Work in Progress
+
+
+|   Activity Name         |           Comments            |      Link to work          |      Status               |
+|-------------------------|-------------------------------|----------------------------|---------------------------|
+|Math-hurdler| <ul><li>Enhanced the UI of the gameplay</li><li>Added Support for keyboard for options</li></ul> | [Link to Work](https://github.com/sugarlabs/math-hurdler/pull/14) | Draft PR |
+
+
 Before GSoC
 
 |   Activity Name         |           Comments                         |      Link to work                  |      Status        |
