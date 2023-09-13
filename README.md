@@ -23,7 +23,7 @@ I have created this Repo to keep the tracks of my contribution in Sugar Labs - S
 |ball-and-brick-activity|<ul><li>Refactored code</li> <li>Added new class for ball, brick and bat </li></ul> | [Link to work](https://github.com/sugarlabs/ball-and-brick-activity/pull/20) | Under Review |
 |hittheballs-activity|<ul><li>Added gameloop to the game</li><li>Added HighScore Feature</li></ul>| [Link to Work](https://github.com/sugarlabs/hittheballs-activity/pull/12) <br/> [Link to work](https://github.com/sugarlabs/hittheballs-activity/pull/13)| Merged <br/> Merged|
 |Sonic-jump-activity| <ul><li>Enhanced the UI of the welcome screen by adding a animated jumping sonic</li><li>Added a help screen, whose button is on welcome screen which show to play the game</li></ul>|[Link to work](https://github.com/sugarlabs/sonic-jump-activity/pull/10)| Under Review |
-|Stick-hero-activity| <ul><li>Fixed arrow key not working </li><ul> | [Link to work](https://github.com/sugarlabs/stick-hero-activity/pull/39) | Under Review |
+|Stick-hero-activity| <ul><li>Fixed arrow key not working </li><ul> | [Link to work](https://github.com/sugarlabs/stick-hero-activity/pull/39) | Merged |
 |Math-hurdler| <ul><li>Enhanced the UI of the gameplay</li><li>Added Support for keyboard for options</li></ul> | [Link to Work](https://github.com/sugarlabs/math-hurdler/pull/14) | Draft PR |
 
 ## Work in Progress
