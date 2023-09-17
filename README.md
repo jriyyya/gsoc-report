@@ -27,14 +27,8 @@ I have created this Repo to keep the tracks of my contribution in Sugar Labs - S
 | Countries-activity| <ul><li>Replaced alphabets to be drawn dynamically instead of using an image</li> <li>Fixed Screen overlaping with toolbar in some version of pygame </li> <li>Updated sugargame to support key presses which was not detected in some versions of pygame </li> </ul> | [Link to work](https://github.com/sugarlabs/countries-activity/pull/18) | Under Review |)
 | Across-and-down-activity | <ul><li>Replaced alphabets to be drawn dynamically instead of using an image</li> <li>Fixed Screen overlaping with toolbar in some version of pygame </li> <li>Updated sugargame to support key presses which was not detected in some versions of pygame </li> </ul> | [Link to work](https://github.com/sugarlabs/across-and-down-activity/pull/23) | Under Review |
 | Flipsticks | <ul><li> Updated ReadMe </li><ul> | [Link to work](https://github.com/sugarlabs/flipsticks/pull/15) | Under Review |
-|Math-hurdler| <ul><li>Enhanced the UI of the gameplay</li><li>Added Support for keyboard for options</li></ul> | [Link to Work](https://github.com/sugarlabs/math-hurdler/pull/14) | Draft PR |
+|Math-hurdler| <ul><li>Enhanced the UI of the gameplay</li><li>Added Support for keyboard for options</li></ul> | [Link to Work](https://github.com/sugarlabs/math-hurdler/pull/14) | Under Review |
 
-## Work in Progress
-
-
-|   Activity Name         |           Comments            |      Link to work          |      Status               |
-|-------------------------|-------------------------------|----------------------------|---------------------------|
-|Math-hurdler| <ul><li>Enhanced the UI of the gameplay</li><li>Added Support for keyboard for options</li></ul> | [Link to Work](https://github.com/sugarlabs/math-hurdler/pull/14) | Draft PR |
 
 
 Before GSoC
