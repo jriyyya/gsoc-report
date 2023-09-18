@@ -13,6 +13,8 @@ I have created this Repo to keep the tracks of my contribution in Sugar Labs - S
 
 ## My work in project
 
+During the summer, I spent my time around contributing to SUgar. My work revolved around refactoring, improving, adding new features in different different activities. I learnt alot during this process about python, pygame, GTK +3, sugar application and it's working, etc. Thanks to my mentors for giving me a helping hand whenever I got stuck in any issue. Looking forward to continue my work in Sugar Labs.
+
 ## Pull Request Track
 
 |   Activity Name         |           Comments            |      Link to work          |      Status               |
