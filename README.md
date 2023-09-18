@@ -17,16 +17,26 @@ I have created this Repo to keep the tracks of my contribution in Sugar Labs - S
 
 |   Activity Name         |           Comments            |      Link to work          |      Status               |
 |-------------------------|-------------------------------|----------------------------|---------------------------|
-|make-them-fall-activity|<ul><li>Created Generic Game class </li> <li>Improved Hardcoding of the objects alot</li> <li> Added feature - Difficulty option </li> <li> Fixed Screen overlaping on canvas which was not visible </li> <li> Update Sugargame to support key presses</ul>|[Link to work](https://github.com/sugarlabs/make-them-fall-activity/pull/25) </br> [Link to work](https://github.com/sugarlabs/make-them-fall-activity/pull/30) </br> [Link to work](https://github.com/sugarlabs/make-them-fall-activity/pull/32) </br> [Link to Work](https://github.com/sugarlabs/make-them-fall-activity/pull/33) | Merged <br/> Merged <br/> Merged <br/> Under Review|
+|make-them-fall-activity|<ul><li>Created Generic Game class </li> <li>Improved Hardcoding of the objects alot</li> <li> Added feature - Difficulty option </li> <li> Fixed Screen overlaping on canvas which was not visible </li> <li> Update Sugargame to support key presses</ul>|[Link to work](https://github.com/sugarlabs/make-them-fall-activity/pull/25) </br> [Link to work](https://github.com/sugarlabs/make-them-fall-activity/pull/30) </br> [Link to work](https://github.com/sugarlabs/make-them-fall-activity/pull/32) </br> [Link to Work](https://github.com/sugarlabs/make-them-fall-activity/pull/33) | Merged <br/> Merged <br/> Merged <br/> Merged |
+
 |block-party-activity|<ul> <li> Add feature: Show Ghost piece</li> <li> Utilized Gdk.rgba to get ghost piece color</li> <li>Add bonus score for line break </li></ul> | [Link to work](https://github.com/sugarlabs/block-party-activity/pull/33) <br/> [Link to work](https://github.com/sugarlabs/block-party-activity/pull/34) | Merged <br/> Merged |
-|classify-cats|<ul><li>Added new game-mode -</br> Choose the cat from the options which has a odd/even count</li><li>Bug Fix in Score </li></ul>| [Link to Work](https://github.com/sugarlabs/classify-cats/pull/9) <br/> [Link to Work](https://github.com/sugarlabs/classify-cats/pull/7) | Under Review <br/> Merged |
+
+|classify-cats|<ul><li>Added new game-mode -</br> Choose the cat from the options which has a odd/even count</li><li>Bug Fix in Score </li></ul>| [Link to Work](https://github.com/sugarlabs/classify-cats/pull/9) <br/> [Link to Work](https://github.com/sugarlabs/classify-cats/pull/7) | Merged <br/> Merged |
+
 |ball-and-brick-activity|<ul><li>Refactored code</li> <li>Added new class for ball, brick and bat </li></ul> | [Link to work](https://github.com/sugarlabs/ball-and-brick-activity/pull/20) | Under Review |
-|hittheballs-activity|<ul><li>Added gameloop to the game</li><li>Added HighScore Feature</li></ul>| [Link to Work](https://github.com/sugarlabs/hittheballs-activity/pull/12) <br/> [Link to work](https://github.com/sugarlabs/hittheballs-activity/pull/13) <br/> [Link to Release](https://github.com/sugarlabs/hittheballs-activity/pull/14) | Merged <br/> Merged <br/> Under Review |
+
+|hittheballs-activity|<ul><li>Added gameloop to the game</li><li>Added HighScore Feature</li></ul>| [Link to Work](https://github.com/sugarlabs/hittheballs-activity/pull/12) <br/> [Link to work](https://github.com/sugarlabs/hittheballs-activity/pull/13) <br/> [Link to Release](https://github.com/sugarlabs/hittheballs-activity/pull/14) | Merged <br/> Merged |
+
 |Sonic-jump-activity| <ul><li>Enhanced the UI of the welcome screen by adding a animated jumping sonic</li><li>Added a help screen, whose button is on welcome screen which show to play the game</li></ul>|[Link to work](https://github.com/sugarlabs/sonic-jump-activity/pull/10)| Under Review |
+
 |Stick-hero-activity| <ul><li>Fixed arrow key not working </li><ul> | [Link to work](https://github.com/sugarlabs/stick-hero-activity/pull/39) </br> [Link to release](https://github.com/sugarlabs/stick-hero-activity/pull/40) | Merged </br> Merged |
-| Countries-activity| <ul><li>Replaced alphabets to be drawn dynamically instead of using an image</li> <li>Fixed Screen overlaping with toolbar in some version of pygame </li> <li>Updated sugargame to support key presses which was not detected in some versions of pygame </li> </ul> | [Link to work](https://github.com/sugarlabs/countries-activity/pull/18) | Under Review |)
+
+| Countries-activity| <ul><li>Replaced alphabets to be drawn dynamically instead of using an image</li> <li>Fixed Screen overlaping with toolbar in some version of pygame </li> <li>Updated sugargame to support key presses which was not detected in some versions of pygame </li> </ul> | [Link to work](https://github.com/sugarlabs/countries-activity/pull/18) | Under Review |
+
 | Across-and-down-activity | <ul><li>Replaced alphabets to be drawn dynamically instead of using an image</li> <li>Fixed Screen overlaping with toolbar in some version of pygame </li> <li>Updated sugargame to support key presses which was not detected in some versions of pygame </li> </ul> | [Link to work](https://github.com/sugarlabs/across-and-down-activity/pull/23) | Under Review |
+
 | Flipsticks | <ul><li> Updated ReadMe </li><ul> | [Link to work](https://github.com/sugarlabs/flipsticks/pull/15) | Under Review |
+
 |Math-hurdler| <ul><li>Enhanced the UI of the gameplay</li><li>Added Support for keyboard for options</li></ul> | [Link to Work](https://github.com/sugarlabs/math-hurdler/pull/14) | Under Review |
 
 
