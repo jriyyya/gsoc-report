@@ -1,21 +1,20 @@
-# Sugar Labs contributions
-
-I have created this Repo to keep the tracks of my contribution in Sugar Labs - Sugar
-
 # Improve and Maintain 12 Sugar Activities
+
+### Google Summer of Code'23
+
 *Name - Riya Jain*
 
 *Email - riya1jain567@gmail.com*
 
 *GitHub username - [jriyyya](https://github.com/jriyyya)*
 
-*Mentors -  [chimosky](https://github.com/chimosky), [sourabhaa](https://github.com/sourabhaa/)*
+*Mentors -  [chimosky](https://github.com/chimosky) , [sourabhaa](https://github.com/sourabhaa/)*
 
 ## My work in project
 
-During the summer, I spent my time around contributing to Sugar. My work revolved around refactoring, improving, adding new features in different different activities. I learnt alot during this process about python, pygame, GTK +3, sugar application and it's working, etc. Thanks to my mentors for giving me a helping hand whenever I got stuck in any issue. Looking forward to continue my work in Sugar Labs.
+During the summer, I spent my time around contributing to Sugar. My work revolved around refactoring, improving, adding new features, enhancing the UI in different activities. Project also involved some reviewing of PRs, fixing flake8 warnings and solving issues which were blocking new releases, and making new releases. I learnt alot during this process about python, pygame, GTK +3, sugargame, sugar and it's working, etc.
 
-## Pull Request Track
+## Work Track
 
 |   Activity Name         |           Comments            |      Link to work          |      Status               |
 |-------------------------|-------------------------------|----------------------------|---------------------------|
@@ -33,8 +32,7 @@ During the summer, I spent my time around contributing to Sugar. My work revolve
 |Math-hurdler| <ul><li>Enhanced the UI of the gameplay</li> <li> Fixed Horse and hurdler sprite not getting on the correct position </li> <li> Added a generic class which acts as the button for the options to selct from </li> <li>Added Support of keyboard for option buttons</li> <li> Updated Sugargame to support key presses</ul> | [Link to Work](https://github.com/sugarlabs/math-hurdler/pull/14) | Under Review |
 
 
-
-Before GSoC
+## Prior to GSoC Contribution
 
 |   Activity Name         |           Comments                         |      Link to work                  |      Status        |
 |-------------------------|--------------------------------------------|------------------------------------|--------------------|
@@ -51,3 +49,5 @@ Before GSoC
 |Cookie-search-activity|<ul><li>Fixed Flake8 warnings</li><ul>|[Link to work](https://github.com/sugarlabs/cookie-search-activity/pull/22) <br/> [Link to work](https://github.com/sugarlabs/cookie-search-activity/pull/24) | Merged |
 
 
+## Personal Note
+With GSoC'23 coming to an end, I'd like to thank my mentors Ibiam Chihurumnaya and Sourabha G for guiding me all along. I really enjoyed working on these activities and I will be continuing my contribution to Sugar Labs. 🚀
